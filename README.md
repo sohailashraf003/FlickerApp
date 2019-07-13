@@ -24,7 +24,7 @@ In dev mode project mode project will be run on http://localhost:
 
 ### Instructions
 
-1. cd AngularApp
+1. cd NodeApp
 2. Run `npm install` to populate *node_modules*
 3. Run `npm start` to run locally project
 4. Run `npm test` to run all test cases
