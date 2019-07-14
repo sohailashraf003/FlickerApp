@@ -35,4 +35,4 @@ Deployed on AWS:
 1. Angular app deployed in amazon s3
 2. Node app is running in amazon es2
 
-http://ec2-13-237-198-132.ap-southeast-2.compute.amazonaws.com:3000/
+http://flicker-demo-app.s3-website-ap-southeast-1.amazonaws.com/
