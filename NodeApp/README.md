@@ -5,17 +5,17 @@
 
 ### Prerequisites
 
-+ Node.js v8+
++ Node.js v10+
 
 In dev mode project mode project will be run on http://localhost:3000
 
-### Instructions
-
 # How to run server
 
-1. cd AngularApp
-2. Run `npm install` to populate *node_modules*
-3. Run `npm start` to run locally project
+### Instructions
+
+1. cd NodeApp
+2. Run `npm install` to download dependencies 
+3. Run `npm start` to run project
 4. Run `npm test` to run all test cases
 4. Run `npm start test-unit` to run unit test cases
 6. Run `npm start test-int` to run integration test cases
