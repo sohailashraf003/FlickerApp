@@ -1,1 +1,6 @@
 
+{
+  "host": "<hostname | IP >",
+  "port": "<Port>"
+  "apiendpoint": "</api/feeds>",
+}
