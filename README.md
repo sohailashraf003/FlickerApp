@@ -1,6 +1,4 @@
 
-# How to run Server
-
 ## Getting Started
 
 ### Prerequisites
