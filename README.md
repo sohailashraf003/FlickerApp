@@ -34,7 +34,7 @@ In dev mode project will be run on http://localhost:4200
 
 Deployed on AWS:
 
-1. Angular app deployed in amaon s3
+1. Angular app deployed in amazon s3
 2. Node app is running in amazon es2
 
 http://ec2-13-237-198-132.ap-southeast-2.compute.amazonaws.com:3000/
