@@ -8,9 +8,9 @@
 
 In dev mode project will be run on http://localhost:4200
 
-### Instructions
-
 # How to run Angular app
+
+### Instructions
 
 1. `cd` AngularApp
 2. Run `npm install` to populate *node_modules*
