@@ -20,7 +20,7 @@ app.set('baseDir', baseDir);
 */
 const envLoad = dotenv.config({ path: path.join(app.get('baseDir'), 'config', '.env'), debug: process.env.DEBUG});
 if (envLoad.error) {
-   throw result.error
+   throw envLoad.error
 }
 
 /**
