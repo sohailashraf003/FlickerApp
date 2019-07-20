@@ -3,36 +3,17 @@
 
 ### Prerequisites
 
-+ Node.js v10+
-+ Angular CLI installed globally
++ Java 1.8
++ Apache Maven 3.6.1
 
-In dev mode project will be run on http://localhost:4200
-
-# How to run Angular app
+# How to run app
 
 ### Instructions
 
-1. `cd` AngularApp
-2. Run `npm install` to populate *node_modules*
-2. Run `npm serve` to run locally project
+1. Downlaod maven binaries from this url. [Maven download](https://maven.apache.org/download.cgi)
+2. Install maven. For maven installation help visit this url [ MAvne installatio help](https://maven.apache.org/install.html)
+2. Navigate to the project folder
+2. Run `mvn test` to run the test cases
+2. Run `mvn clean package` to build the jar file
+2. Run `java -jar ./target/canvasDrawing-0.0.1-SNAPSHOT.jar` to run the app
 
-
-
-# How to run server
-
-### Instructions
-
-1. cd NodeApp
-2. Run `npm install` to download dependencies 
-3. Run `npm start` to run project
-4. Run `npm test` to run all test cases
-4. Run `npm start test-unit` to run unit test cases
-6. Run `npm start test-int` to run integration test cases
-7. Run `npm start test-e2e` to run e2e test cases
-
-Deployed on AWS:
-
-1. Angular app deployed in amazon s3
-2. Node app is running in amazon es2
-
-http://flicker-demo-app.s3-website-ap-southeast-1.amazonaws.com/
